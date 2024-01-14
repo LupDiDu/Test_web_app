@@ -36,6 +36,7 @@ public class Application implements AppShellConfigurator {
                     return super.initializeDatabase();
                 }
                 return false;
+
             }
         };
     }
